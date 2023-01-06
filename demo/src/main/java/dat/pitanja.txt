@@ -1,0 +1,10 @@
+Koja je trenutno godina?;
+2003.;
+1993.;
+2013.;
+2023.;
+Koji programski jezik najviše mrzim?;
+Java;
+C;
+PHP;
+QBasic;
